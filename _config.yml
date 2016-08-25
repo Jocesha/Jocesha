@@ -33,10 +33,10 @@ kramdown:
 ####################################
 #
 owner:
-  name: Leonids
-  avatar: leonids-logo.png
-  job: "A jekyll theme"
-  bio: "A simple and awesome blog theme powered by jekyll."
+  name: Jocesha
+  avatar: logo.png
+  job: "about web and design"
+  bio: "Stay hungry, Stay foolish."
   email:
   disqus-shortname:
   twitter: #username

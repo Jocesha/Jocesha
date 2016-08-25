@@ -1486,7 +1486,7 @@ pre code {
     .cover-card {
       text-align: right;
       margin: 0 auto;
-      padding: 0 0px 80px; } }
+      padding: 0 0 80px; } }
 
 .social-links {
   margin-top: 0.5em; }
@@ -1499,23 +1499,22 @@ pre code {
       margin-left: 1em; }
       .social-links ul li a.social-link-item {
         color: #8d7edc; }
-        .social-links ul li a.social-link-item:hover, .social-links ul li a.social-link-item:focus {
+        .social-links ul li a.social-link-item:focus, .social-links ul li a.social-link-item:hover {
           color: #bfb6eb; }
 
 .nav-list {
-  margin: 0;
+  margin: 40px 0;
   padding: 0;
   list-style: none; }
   .nav-list .nav-item {
-    display: inline-block;
+    display: block;
     *display: inline;
     zoom: 1; }
     .nav-list .nav-item a {
       margin-top: 1em;
-      text-transform: lowercase;
-      font-size: 85%;
+      text-transform: uppercase;
       color: #8d7edc; }
-      .nav-list .nav-item a:hover, .nav-list .nav-item a:focus {
+      .nav-list .nav-item a:focus, .nav-list .nav-item a:hover {
         color: #bfb6eb; }
 
 ul.tag-cloud {
