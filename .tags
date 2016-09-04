@@ -1,0 +1,10 @@
+a	/Users/Xuxia/Documents/Blog/_layouts/post.html	/^<a class="btn" href= "{{ site.url }}\/" >$/;"	function	line:5
+div	/Users/Xuxia/Documents/Blog/_layouts/post.html	/^<div class="post-image-feature">$/;"	function	line:9
+span	/Users/Xuxia/Documents/Blog/_layouts/post.html	/^  <span class="image-credit">Photo Credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}<\/a><\/span>$/;"	function	line:19
+div	/Users/Xuxia/Documents/Blog/_layouts/post.html	/^<div id="post">$/;"	function	line:25
+header	/Users/Xuxia/Documents/Blog/_layouts/post.html	/^  <header class="post-header">$/;"	function	line:26
+h	/Users/Xuxia/Documents/Blog/_layouts/post.html	/^    <h1 title="{{ page.title }}">{{ page.title }}<\/h1>$/;"	function	line:27
+span	/Users/Xuxia/Documents/Blog/_layouts/post.html	/^    <span class="post-meta">$/;"	function	line:28
+span	/Users/Xuxia/Documents/Blog/_layouts/post.html	/^      <span class="post-date">$/;"	function	line:29
+article	/Users/Xuxia/Documents/Blog/_layouts/post.html	/^  <article class="post-content">$/;"	function	line:38
+div	/Users/Xuxia/Documents/Blog/_layouts/post.html	/^<div id="disqus_thread"><\/div>$/;"	function	line:44

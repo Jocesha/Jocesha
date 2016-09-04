@@ -3,7 +3,7 @@
 # Site wide configuration
 ####################################
 #
-title: Leonids
+title: Jocesha
 email:
 description: A simple and awesome blog theme powered by jekyll.
 url: # the base hostname & protocol for your site
@@ -33,11 +33,11 @@ kramdown:
 ####################################
 #
 owner:
-  name: Jocesha
+  name: "Jocesha"
   avatar: logo.png
-  job: "about web and design"
+  job: "一个偏爱设计的前端开发者"
   bio: "Stay hungry, Stay foolish."
-  email:
+  email: "xuxia@bztone.com"
   disqus-shortname:
   twitter: #username
   facebook: #username
@@ -48,8 +48,8 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
-  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+  github: "xuxia2013"
+  stackoverflow: "4387076/smile-2014"
   linkedin: #username
   xing: #username
   instagram: #username
@@ -61,6 +61,6 @@ owner:
   dribbble: #username
   youtube: #username
   soundcloud: #username
-  weibo: #username
+  weibo: "_ShellyXu"
   flickr: #username
   codepen: #username
